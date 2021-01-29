@@ -21,7 +21,7 @@
 import urllib3
 urllib3.disable_warnings()
 
-import sys, os, requests, json, random, string, gitlab, re, argparse
+import sys, requests, random, string, gitlab, re, argparse
 from time import sleep
 
 def authenticate(url, user, pwd):
