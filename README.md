@@ -1,8 +1,12 @@
-## The what?
+## The warn
+
+For demonstration purpose and ethical hacking only.
+
+## The what
 
 A (wanted to be) better script than what can be found on exploit-db about the authenticated arbitrary read file on GitLab v12.9.0. 
 
-## The how?
+## The how
 
 1. Meet the dependency (you probably already have the rest)
 
